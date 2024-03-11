@@ -1,4 +1,5 @@
 ### Hi there 👋
+제 포트폴리오 사이트 입니다
 https://hyno2.github.io/Hyeon-Oh-Lee/
 <!--
 **Hyno2/Hyno2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
